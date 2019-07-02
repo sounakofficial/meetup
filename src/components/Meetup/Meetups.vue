@@ -43,7 +43,7 @@ export default {
   },
   methods: {
     viewMeetups(id) {
-      this.$router.push('/CreateMeetup/' + id)
+      this.$router.push('/Meetup/' + id)
     }
   }
 }

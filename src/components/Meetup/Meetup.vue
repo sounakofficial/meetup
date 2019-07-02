@@ -9,7 +9,9 @@
           <v-card-media :src="meetup.imgUrl" height="400px"></v-card-media>
           <v-card-title>
             <div>
-              <h2 class="info--text">{{ meetup.date }} - Where it takes place</h2>
+              <h2 class="info--text">
+                {{ meetup.date }} - Where it takes place
+              </h2>
               <div>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam
                 ipsum, quod labore, pariatur eos aut commodi corporis voluptatem
