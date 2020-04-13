@@ -11,7 +11,7 @@
     "firebase-tools": "^7.0.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
-    "vuetify": "^1.5.5",
+    "vuetify": "^1.5.24",
     "vuex": "^3.0.1",
     "webpack": "^4.33.0"
   },
